@@ -4,16 +4,13 @@ I'm deeply passionate about software development with a particular focus on craf
 
 ### 📬 Let's Connect!
 
-Feel free to reach out to me for collaboration, opportunities, or just a chat about technology. Here's how you can connect with me:
+ Here's how you can connect with me:
 
 - **Email**: [Send an Email](mailto:giochichileishvili20@gmail.com) 📧
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/giorgi-chichileishvili-2a0770249/) 🔗
 - **Instagram**: [Follow on Instagram](https://www.instagram.com/gchichileishvili11/) 📸
 
 ### 📊 My GitHub Statistics
-
-I believe in open-source and the power of community-driven development. Here are some insights into my contributions and interests, now with updated order and color themes:
-
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chichileishvili&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages by Giorgi Chichileishvili" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chichileishvili&count_private=true&show_icons=true&include_all_commits=true&theme=react" alt="GitHub Statistics for Giorgi Chichileishvili" />
