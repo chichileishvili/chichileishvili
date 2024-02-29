@@ -1,16 +1,24 @@
-## ⚡ Software Engineer
+## :hotsprings: Software Engineering Enthusiast
 
-Passionate about software development and focused on building performant apps
+I'm deeply passionate about software development with a particular focus on crafting efficient and high-performance applications. My journey in technology is driven by a relentless pursuit of learning and improvement.
 
-#### 📬 Contact me anytime ⬇
+### 📬 Let's Connect!
 
-[![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:giochichileishvili20@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/giorgi-chichileishvili-2a0770249/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/gchichileishvili11/)
+Feel free to reach out to me for collaboration, opportunities, or just a chat about technology. Here's how you can connect with me:
 
-<div style="display:flex; align-items: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chichileishvili&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Giorgi Chichileishvili => Stats" />
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chichileishvili&layout=compact" alt="Giorgi Chichileishvili => Stats" />
+- **Email**: [Send an Email](mailto:giochichileishvili20@gmail.com) 📧
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/giorgi-chichileishvili-2a0770249/) 🔗
+- **Instagram**: [Follow on Instagram](https://www.instagram.com/gchichileishvili11/) 📸
+
+### 📊 My GitHub Statistics
+
+I believe in open-source and the power of community-driven development. Here are some insights into my contributions and interests, now with updated order and color themes:
+
+<div style="display:flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chichileishvili&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages by Giorgi Chichileishvili" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chichileishvili&count_private=true&show_icons=true&include_all_commits=true&theme=react" alt="GitHub Statistics for Giorgi Chichileishvili" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chichileishvili&" alt="Giorgi Chichileishvili" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chichileishvili&theme=dark" alt="GitHub Contribution Streak of Giorgi Chichileishvili" />
+</p>
