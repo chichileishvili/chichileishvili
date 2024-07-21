@@ -13,9 +13,10 @@ I'm deeply passionate about software development with a particular focus on craf
 ### 📊 My GitHub Statistics
 <div style="display:flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chichileishvili&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages by Giorgi Chichileishvili" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chichileishvili&count_private=true&show_icons=true&include_all_commits=true&theme=react" alt="GitHub Statistics for Giorgi Chichileishvili" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chichileishvili&theme=dark" alt="GitHub Contribution Streak of Giorgi Chichileishvili" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chichileishvili&count_private=true&show_icons=true&include_all_commits=true&theme=react" alt="GitHub Statistics for Giorgi Tchitchileishvili" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chichileishvili&theme=dark" alt="GitHub Contribution Streak of Giorgi Chichileishvili" />
 </div>
+
 
 
    
